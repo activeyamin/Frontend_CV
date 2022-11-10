@@ -104,13 +104,13 @@ i{
 }
 .body_middle_sape {
 	width: 7px;
-	height: 1700px;
+	height: 1760px;
 	background: rgba(19, 20, 18, 0.26);
 	position: absolute;
 	top: 0%;
 	content: " ";
 	z-index: 99;
-	margin-left: 41.9% !important;
+	margin-left: 42%;
 }
 #hader_part .hader_left {
 	border-top: 4px solid #000000;
@@ -580,11 +580,11 @@ ul.menu li+li {
 	position: relative;
 }
 .bottom_sape {
-    width: 86.8%;
+    width: 85.8%;
     height: 5px;
     background: #000000;
     position: absolute;
     margin-top: -30px;
     z-index: 99;
-    margin-left: 100px;
+    margin-left: 108px;
 }

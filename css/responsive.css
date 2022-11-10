@@ -682,8 +682,8 @@
 /*  ===========hader_part responsive start==========*/
 .body_middle_sape {
     width: 6px;
-    height: 1606px;
-    margin-left: 42%;
+    height: 1740px;
+    margin-left: 42.5%;
 }
     #hader_part .hader_left {
         padding-right: 0;
@@ -730,7 +730,7 @@
         padding-left: 0;
     }
     #skill_part .skill_right .refarence h3::before {
-        left: -28%;
+        left: -26%;
     }
     #skill_part .refarence .detals2 {
         padding-left: 50px;
@@ -768,15 +768,15 @@
 /*  ===========cotnack_part responsive start==========*/
     #contack_part .experince h3::before {
         bottom: -20px;
-        left: -10.3%;
+        left: -10%;
     }
     #contack_part .experince h3::after {
         width: 23%;
     }
     .bottom_sape {
-        width: 94.8%;
-        margin-left: 33px;
+        width: 88.6%;
+        margin-left: 75px; 
     }
-/*   ===========cotnack_part responsive end==========*/
+    /*   ===========cotnack_part responsive end==========*/
   
 }

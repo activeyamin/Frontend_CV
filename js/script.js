@@ -22,6 +22,14 @@ $('.bootstrap-progressbar').rProgressbar({
     backgroundColor: '#581845',
        
 });
+
+$('.tailwind-progressbar').rProgressbar({
+    percentage: 70,
+    fillBackgroundColor: '#fc4444',
+    backgroundColor: '#581845',
+       
+});
+
 $('.php-progressbar').rProgressbar({
     percentage: 90,
     fillBackgroundColor: '#fc4444',
@@ -41,19 +49,19 @@ $('.mysql-progressbar').rProgressbar({
        
 });
 $('.Wordpress').rProgressbar({
-    percentage: 50,
+    percentage: 60,
     fillBackgroundColor: '#fc4444',
     backgroundColor: '#581845',
        
 });
 $('.java-progressbar').rProgressbar({
-    percentage: 40,
+    percentage: 50,
     fillBackgroundColor: '#fc4444',
    backgroundColor: '#581845',
        
 });
 $('.jquery-progressbar').rProgressbar({
-    percentage: 80,
+    percentage: 90,
     fillBackgroundColor: '#fc4444',
     backgroundColor: '#581845',
        
